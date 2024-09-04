@@ -3,7 +3,7 @@ package com.tns.day2;
 public class datatype {
 
 	public static void main(String[] args) {
-
+	
 			 System.out.println("Datatype\t Min.Value\t Max.Value\t"); 
 
 			 System.out.println("Byte\t\t"+ Byte.MIN_VALUE + "\t\t" + Byte.MAX_VALUE); 
@@ -27,8 +27,3 @@ public class datatype {
 
 
 	}
-		// TODO Auto-generated method stub
-
-	
-
-
