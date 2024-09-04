@@ -19,6 +19,16 @@ public class datatype {
 	         System.out.println("Double\t"+ Double.MIN_VALUE + "\t\t" + Short.MAX_VALUE); 
 
 	         System.out.println("Character\t"+ Character.MIN_VALUE + "\t\t" + Character.MAX_VALUE); 
-       }
 
-}
+
+
+		}
+
+
+
+	}
+		// TODO Auto-generated method stub
+
+	
+
+
